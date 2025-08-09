@@ -48,3 +48,11 @@ For testing purposes, a **sample dataset** (`uber_sample.csv`) is included in th
    ```bash
    git clone https://github.com/yourusername/uber-data-analysis.git
    cd uber-data-analysis
+
+2.**Install dependencies**
+  pip install -r requirements.txt
+
+3.**Run Jupyter Notebook**
+  jupyter notebook
+
+4.**Open and run uber_analysis.ipynb**
